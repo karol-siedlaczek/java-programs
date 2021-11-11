@@ -1,3 +1,7 @@
+/*
+    Karol Siedlaczek I8X1N1 2019
+    Zaimplementuj program realizujący problem czytelników i pisarzy dla 6 pisarzy i 12 czytelników
+*/
 public class CzytelnikPisarz{
     public static void main (String[] args) throws InterruptedException{
         final Main main = new Main();
