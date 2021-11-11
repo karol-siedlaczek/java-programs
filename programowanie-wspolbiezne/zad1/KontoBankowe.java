@@ -1,5 +1,10 @@
+//Karol Siedlaczek I8X1N1
+/*napisz program wspolbiezny dla N (konfigurowalne) kont bankowych i M stałej początkowej wartości
+  pieniędzy na każdym koncie będzie w N+1 wątkach realizował przelewy z N kont bankowych na inne
+  losowe konta, tak aby przy każdorazowym sprawdzeniu sumy pieniędzy w banku wynosiła ona stałą
+  liczbe MxN. Zaimplementuj z użyciem semafora
+*/
 import java.util.concurrent.ThreadLocalRandom;
-
 
 class Bank{
     public static int N = 0;//ilosc_kont
