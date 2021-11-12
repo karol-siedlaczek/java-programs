@@ -1,0 +1,2 @@
+c)sprawdzone wyjatki musze byc obsluzone przez programiste i są sprawdzane na etapie kompilacji, np ten co uzylem w programie, 
+niesprawdzane wyjatki to takie ktore maja RunTimeExcpetion i nie jest konieczna ich obsluga, ale jest to mozliwe
