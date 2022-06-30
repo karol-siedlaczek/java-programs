@@ -5,7 +5,6 @@ import java.util.Objects;
 
 public class Group implements Figure{
     private final List<Figure> figureList = new ArrayList<>();
-
     public Group(Figure... figures) {
         figureList.addAll(Arrays.asList(figures));
     }
@@ -58,6 +57,5 @@ public class Group implements Figure{
         }
         stringBuilder.append("], \n");
         return stringBuilder.toString();
-
     }
 }

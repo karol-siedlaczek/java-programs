@@ -17,26 +17,6 @@ public class Polygon implements Figure{
        points.add(p3);
        points.add(p4);
        points.add(p5);
-
-      //  P1 = new double[2];
-      //  P2 = new double[2];
-     //   P3 = new double[2];
-      //  P4 = new double[2];
-      //  P5 = new double[2];
-        //P1[0] = x1;
-       // P1[1] = y1;
-
-        //P2[0] = x2;
-        //P2[1] = y2;
-
-        //P3[0] = x3;
-       // P3[1] = y3;
-
-       // P4[0] = x4;
-       // P4[1] = y4;
-
-       // P5[0] = x5;
-       // P5[1] = y5;
     }
 
     public void move(double dx, double dy){

@@ -23,7 +23,7 @@ abstract class Main implements Figure{
         Point p3_2 = new Point(3,3);
         Point p4_2 = new Point(3,2);
         Line line2 = new Line(2,2,3,4);
-        //Polygon polygon2 = new Polygon(2,3,4,5,6,7,8,9,0,22);
+        // Polygon polygon2 = new Polygon(2,3,4,5,6,7,8,9,0,22);
         Group g2 = new Group(p1_2, p2_2, p3_2, p4_2, line2, polygon1);
 
         Point p1_3 = new Point(5,5);
@@ -31,31 +31,31 @@ abstract class Main implements Figure{
         Point p3_3 = new Point(5,5);
         Point p4_3 = new Point(5,2);
         Line line3 = new Line(5,5,10,15);
-       // Polygon polygon3 = new Polygon(5,44,15,5,16,15,8,8,0,2);
+        // Polygon polygon3 = new Polygon(5,44,15,5,16,15,8,8,0,2);
         Group g3 = new Group(p1_3, p2_3, p3_3, p4_3, line3, polygon1);
 
         System.out.println(g1.toString());
-        //System.out.println(g2.toString());
-        //System.out.println(g3.toString());
+        System.out.println(g2.toString());
+        System.out.println(g3.toString());
 
         g1.move(1,1);
         g2.move(2,2);
         g3.move(3,3);
 
-        //System.out.println(g1.toString());
-        //System.out.println(g2.toString());
-       // System.out.println(g3.toString());
+        System.out.println(g1.toString());
+        System.out.println(g2.toString());
+        System.out.println(g3.toString());
 
         g1.flip();
         g2.flip();
         g3.flip();
 
-       // System.out.println(g1.toString());
-       // System.out.println(g2.toString());
-       // System.out.println(g3.toString());
+        System.out.println(g1.toString());
+        System.out.println(g2.toString());
+        System.out.println(g3.toString());
 
         System.out.println(g1.equals(g2));
-       // System.out.println(polygon1.equals(polygon1));
+        System.out.println(polygon1.equals(polygon1));
         System.out.println(g3.equals(g3));
     }
 }
