@@ -1,4 +1,21 @@
-class Punkt implements Interface{
+class Punkt implements Interface, Interface2{
+    static class InnerPunkt implements Interface, Interface2{
+        int j;
+        int i;
+        public InnerPunkt(int j, int i){
+            this.j = j;
+            this.i = i;
+        }
+        @Override
+        public String metoda(){
+            return "siema";
+        }
+
+        @Override
+        public String metoda2(){
+            return "siema";
+        }
+    }
     int x;
     int y;
 
@@ -15,6 +32,16 @@ class Punkt implements Interface{
     @Override
     public String toString(){
         return this.x + ", " + this.y;
+    }
+
+    @Override
+    public String metoda(){
+        return "siema";
+    }
+
+    @Override
+    public String metoda2(){
+        return "siema";
     }
 
     public static void main (String[] args) {

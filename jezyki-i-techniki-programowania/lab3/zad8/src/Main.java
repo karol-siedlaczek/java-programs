@@ -8,6 +8,12 @@
 public class Main {
     public static void main(String args[]){
         DoTrzechRazySztuka main = new DoTrzechRazySztuka();
-        main.wczytaj();
+        try{
+            main.wczytaj();
+        }
+        catch (InterruptedException e) {
+            System.out.println("no i siup");
+        }
+
     }
 }

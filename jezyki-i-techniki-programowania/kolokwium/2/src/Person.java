@@ -1,14 +1,25 @@
-public class Person{
+import java.util.HashMap;
+import java.util.HashSet;
+import java.util.Map;
+import java.util.Set;
+
+import java.awt.Container;
+
+public abstract class Person{
     String name;
     Boolean sex;
+    Integer testowa_zmienna = 10;
 
     Person(String name, Boolean sex) {
         this.name = name;
         this.sex = sex;
     }
 
-    @Override
-    public String toString(){
+   public abstract void ShowSmth() throws CloneNotSupportedException;
+
+    public String getSex(){
+        Map<String, String> map = new HashMap<>();
+        Set<String> set = new HashSet<>();
         String result;
         if (sex) {
             result = "boy";
@@ -16,10 +27,6 @@ public class Person{
         else {
             result = "girl";
         }
-        return this.name + "is " + result;
-    }
-
-    public static void main(String[] args) {
-
+        return this.name + " is " + result;
     }
 }
