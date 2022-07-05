@@ -1,4 +1,4 @@
-public class J {
+public class J implements Cloneable{
     int a;
     static int stJ = 0;
 

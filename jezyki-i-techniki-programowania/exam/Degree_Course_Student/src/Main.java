@@ -24,9 +24,9 @@ public class Main {
         course3.add(student9);
         course3.add(student10);
         Degree degree1 = new Degree();
-        degree1.add(course1);
+        /*degree1.add(course1);
         degree1.add(course2);
-        degree1.add(course3);
+        degree1.add(course3);*/
         for (Student student : degree1.betterStudents()){
             System.out.println(student.mark);
         }

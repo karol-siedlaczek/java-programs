@@ -23,8 +23,8 @@ public class H extends J{
         System.out.println("o2.a = " + o2.a);
         System.out.println("J.stJ = " + J.stJ);
         System.out.println("H.stJ = " + H.stH);
-        int x = 3;
-        System.out.println("o1.m(x) = " + o1.m(x));
+        int x;
+        System.out.println("o1.m(x) = " + o1.m(x = 3));
         System.out.println("o2.m(x) = " + o2.m(x));
         System.out.println("x = " + x);
         System.out.println("o2.a = " + o2.a);

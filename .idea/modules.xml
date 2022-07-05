@@ -2,24 +2,25 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/jezyki-i-techniki-programowania/kolokwium/1/1.iml" filepath="$PROJECT_DIR$/jezyki-i-techniki-programowania/kolokwium/1/1.iml" />
-      <module fileurl="file://$PROJECT_DIR$/jezyki-i-techniki-programowania/kolokwium/2/2.iml" filepath="$PROJECT_DIR$/jezyki-i-techniki-programowania/kolokwium/2/2.iml" />
-      <module fileurl="file://$PROJECT_DIR$/jezyki-i-techniki-programowania/kolokwium/3/3.iml" filepath="$PROJECT_DIR$/jezyki-i-techniki-programowania/kolokwium/3/3.iml" />
-      <module fileurl="file://$PROJECT_DIR$/jezyki-i-techniki-programowania/kolokwium/4/4.iml" filepath="$PROJECT_DIR$/jezyki-i-techniki-programowania/kolokwium/4/4.iml" />
-      <module fileurl="file://$PROJECT_DIR$/jezyki-i-techniki-programowania/kolokwium/5/5.iml" filepath="$PROJECT_DIR$/jezyki-i-techniki-programowania/kolokwium/5/5.iml" />
-      <module fileurl="file://$PROJECT_DIR$/jezyki-i-techniki-programowania/kolokwium/6/6.iml" filepath="$PROJECT_DIR$/jezyki-i-techniki-programowania/kolokwium/6/6.iml" />
-      <module fileurl="file://$PROJECT_DIR$/jezyki-i-techniki-programowania/kolokwium/7/7.iml" filepath="$PROJECT_DIR$/jezyki-i-techniki-programowania/kolokwium/7/7.iml" />
-      <module fileurl="file://$PROJECT_DIR$/jezyki-i-techniki-programowania/kolokwium/8/8.iml" filepath="$PROJECT_DIR$/jezyki-i-techniki-programowania/kolokwium/8/8.iml" />
-      <module fileurl="file://$PROJECT_DIR$/jezyki-i-techniki-programowania/kolokwium/Data_Towar_Magazyn/Data_Towar_Magazyn.iml" filepath="$PROJECT_DIR$/jezyki-i-techniki-programowania/kolokwium/Data_Towar_Magazyn/Data_Towar_Magazyn.iml" />
-      <module fileurl="file://$PROJECT_DIR$/jezyki-i-techniki-programowania/kolokwium/Degree_Course_Student/Degree_Course_Student.iml" filepath="$PROJECT_DIR$/jezyki-i-techniki-programowania/kolokwium/Degree_Course_Student/Degree_Course_Student.iml" />
-      <module fileurl="file://$PROJECT_DIR$/jezyki-i-techniki-programowania/kolokwium/FootballTeam_Play/FootballTeam_Play.iml" filepath="$PROJECT_DIR$/jezyki-i-techniki-programowania/kolokwium/FootballTeam_Play/FootballTeam_Play.iml" />
-      <module fileurl="file://$PROJECT_DIR$/jezyki-i-techniki-programowania/kolokwium/Klub_Druzyna_Gracz/Klub_Druzyna_Gracz.iml" filepath="$PROJECT_DIR$/jezyki-i-techniki-programowania/kolokwium/Klub_Druzyna_Gracz/Klub_Druzyna_Gracz.iml" />
-      <module fileurl="file://$PROJECT_DIR$/jezyki-i-techniki-programowania/kolokwium/Person_Family/Person_Family.iml" filepath="$PROJECT_DIR$/jezyki-i-techniki-programowania/kolokwium/Person_Family/Person_Family.iml" />
-      <module fileurl="file://$PROJECT_DIR$/jezyki-i-techniki-programowania/kolokwium/Shelf_Drawer_Item/Shelf_Drawer_Item.iml" filepath="$PROJECT_DIR$/jezyki-i-techniki-programowania/kolokwium/Shelf_Drawer_Item/Shelf_Drawer_Item.iml" />
-      <module fileurl="file://$PROJECT_DIR$/jezyki-i-techniki-programowania/kolokwium/Stack/Stack.iml" filepath="$PROJECT_DIR$/jezyki-i-techniki-programowania/kolokwium/Stack/Stack.iml" />
-      <module fileurl="file://$PROJECT_DIR$/jezyki-i-techniki-programowania/kolokwium/Train_Carriage_Seat/Train_Carriage_Seat.iml" filepath="$PROJECT_DIR$/jezyki-i-techniki-programowania/kolokwium/Train_Carriage_Seat/Train_Carriage_Seat.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jezyki-i-techniki-programowania/exam/01_testy/01_testy.iml" filepath="$PROJECT_DIR$/jezyki-i-techniki-programowania/exam/01_testy/01_testy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jezyki-i-techniki-programowania/exam/01_testy/1/1.iml" filepath="$PROJECT_DIR$/jezyki-i-techniki-programowania/exam/01_testy/1/1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jezyki-i-techniki-programowania/exam/01_testy/2/2.iml" filepath="$PROJECT_DIR$/jezyki-i-techniki-programowania/exam/01_testy/2/2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jezyki-i-techniki-programowania/exam/01_testy/3/3.iml" filepath="$PROJECT_DIR$/jezyki-i-techniki-programowania/exam/01_testy/3/3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jezyki-i-techniki-programowania/exam/01_testy/4/4.iml" filepath="$PROJECT_DIR$/jezyki-i-techniki-programowania/exam/01_testy/4/4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jezyki-i-techniki-programowania/exam/01_testy/5/5.iml" filepath="$PROJECT_DIR$/jezyki-i-techniki-programowania/exam/01_testy/5/5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jezyki-i-techniki-programowania/exam/01_testy/6/6.iml" filepath="$PROJECT_DIR$/jezyki-i-techniki-programowania/exam/01_testy/6/6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jezyki-i-techniki-programowania/exam/01_testy/7/7.iml" filepath="$PROJECT_DIR$/jezyki-i-techniki-programowania/exam/01_testy/7/7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jezyki-i-techniki-programowania/exam/01_testy/8/8.iml" filepath="$PROJECT_DIR$/jezyki-i-techniki-programowania/exam/01_testy/8/8.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jezyki-i-techniki-programowania/exam/Data_Towar_Magazyn/Data_Towar_Magazyn.iml" filepath="$PROJECT_DIR$/jezyki-i-techniki-programowania/exam/Data_Towar_Magazyn/Data_Towar_Magazyn.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jezyki-i-techniki-programowania/exam/Degree_Course_Student/Degree_Course_Student.iml" filepath="$PROJECT_DIR$/jezyki-i-techniki-programowania/exam/Degree_Course_Student/Degree_Course_Student.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jezyki-i-techniki-programowania/exam/FootballTeam_Play/FootballTeam_Play.iml" filepath="$PROJECT_DIR$/jezyki-i-techniki-programowania/exam/FootballTeam_Play/FootballTeam_Play.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jezyki-i-techniki-programowania/exam/Klub_Druzyna_Gracz/Klub_Druzyna_Gracz.iml" filepath="$PROJECT_DIR$/jezyki-i-techniki-programowania/exam/Klub_Druzyna_Gracz/Klub_Druzyna_Gracz.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jezyki-i-techniki-programowania/exam/Person_Family/Person_Family.iml" filepath="$PROJECT_DIR$/jezyki-i-techniki-programowania/exam/Person_Family/Person_Family.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jezyki-i-techniki-programowania/exam/Shelf_Drawer_Item/Shelf_Drawer_Item.iml" filepath="$PROJECT_DIR$/jezyki-i-techniki-programowania/exam/Shelf_Drawer_Item/Shelf_Drawer_Item.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jezyki-i-techniki-programowania/exam/Stack/Stack.iml" filepath="$PROJECT_DIR$/jezyki-i-techniki-programowania/exam/Stack/Stack.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jezyki-i-techniki-programowania/exam/Train_Carriage_Seat/Train_Carriage_Seat.iml" filepath="$PROJECT_DIR$/jezyki-i-techniki-programowania/exam/Train_Carriage_Seat/Train_Carriage_Seat.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jezyki-i-techniki-programowania/exam/exam.iml" filepath="$PROJECT_DIR$/jezyki-i-techniki-programowania/exam/exam.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/java-programs.iml" filepath="$PROJECT_DIR$/.idea/java-programs.iml" />
-      <module fileurl="file://$PROJECT_DIR$/jezyki-i-techniki-programowania/kolokwium/kolokwium.iml" filepath="$PROJECT_DIR$/jezyki-i-techniki-programowania/kolokwium/kolokwium.iml" />
       <module fileurl="file://$PROJECT_DIR$/jezyki-i-techniki-programowania/lab1/lab1.iml" filepath="$PROJECT_DIR$/jezyki-i-techniki-programowania/lab1/lab1.iml" />
       <module fileurl="file://$PROJECT_DIR$/programowanie-wspolbiezne/lab4/lab4.iml" filepath="$PROJECT_DIR$/programowanie-wspolbiezne/lab4/lab4.iml" />
       <module fileurl="file://$PROJECT_DIR$/programowanie-wspolbiezne/programowanie-wspolbiezne.iml" filepath="$PROJECT_DIR$/programowanie-wspolbiezne/programowanie-wspolbiezne.iml" />
